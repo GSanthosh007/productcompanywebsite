@@ -38,10 +38,13 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-### Home Page:
+![](./out4.png)
 
-![output](./images/homepage.jpg)
+![](./out1.png)
 
+![](./out2.png)
+
+![](./out3.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
