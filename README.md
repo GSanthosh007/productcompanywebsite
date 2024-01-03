@@ -406,13 +406,10 @@ h1{
 
 ## OUTPUT:
 
-![](./out4.png)
-
-![](./out1.png)
-
-![](./out2.png)
-
-![](./out3.png)
+![](./1.png)
+![](./2.png)
+![](./3.png)
+![](./4.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
